@@ -1,6 +1,8 @@
 # Connect Four Game
 ## Demo video 
 
+https://github.com/amineboucenna/Connect-Four/assets/89776217/a39f1e9c-a33e-4024-bbfd-ffe3d865091c
+
 ## Description
 This Connect Four game features three levels of heuristic difficulty (easy, medium, and hard).
 
@@ -37,4 +39,4 @@ npm run dev
 ### 3 - visit http://127.0.0.1:5000/
 
 ## Discover More Projects
-For more projects visit my [problem solving repository](https://github.com/amineboucenna/Github-Streaks)
+For more projects visit my [problem solving repository](https://github.com/amineboucenna/Problem-Solving)
