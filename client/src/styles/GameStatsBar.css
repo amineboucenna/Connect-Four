@@ -1,0 +1,39 @@
+.TimerBar {
+  display: flex;
+  background-color: gray;
+  height: 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid gray ;
+}
+
+
+.player-stats {
+  display: flex;
+  margin: 20px;
+  gap: 20px;
+  
+}
+
+.score-time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.player-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
